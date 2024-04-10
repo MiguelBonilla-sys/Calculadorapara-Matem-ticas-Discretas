@@ -12,8 +12,8 @@ Las siguientes opciones están disponibles en la calculadora:
      - Teoría de Conjuntos: Calcula la unión, intersección y complemento de conjuntos.
 
      - Relaciones y Funciones: Determina el dominio y rango de una función, y comprueba si una relación es reflexiva, simétrica o transitiva.
-
-     - Propiedades de Lógica Proposicional: Calcula el valor de verdad de una expresión proposicional.
+     
+          - Propiedades de Lógica Proposicional: Calcula el valor de verdad de una expresión proposicional.
 
      - Expresión Booleana en tabla: Genera una tabla de verdad para una determinada expresión booleana.
 ## Las Dependecias
